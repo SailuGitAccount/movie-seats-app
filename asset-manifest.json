@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-seats-app/static/css/main.af79e3bf.css",
+    "main.js": "/movie-seats-app/static/js/main.6e1ffd7f.js",
+    "index.html": "/movie-seats-app/index.html",
+    "main.af79e3bf.css.map": "/movie-seats-app/static/css/main.af79e3bf.css.map",
+    "main.6e1ffd7f.js.map": "/movie-seats-app/static/js/main.6e1ffd7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af79e3bf.css",
+    "static/js/main.6e1ffd7f.js"
+  ]
+}

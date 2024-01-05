@@ -1,0 +1,33 @@
+.seat-container {
+    display: grid;
+    grid-template-columns: repeat(8, 40px);
+    gap: 5px;
+  }
+  
+  .seat-row {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .seat {
+    width: 40px;
+    height: 40px;
+    background-color: #bad1f1;
+    border: 1px solid #aaa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .seat.selected {
+    background-color: #fb9e61;
+    color: #fff;
+  }
+  .square{
+    width:25px;
+    height:25px;
+  }
+  
+
+  
